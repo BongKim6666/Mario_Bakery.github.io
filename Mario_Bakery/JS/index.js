@@ -5,9 +5,9 @@ $(".concept").vegas({
   transitionDuration: 2000,
   animation: "kenburns",
   slides: [
-    { src: "../img/concept/slide1.jpg" },
-    { src: "../img/concept/slide2.jpg" },
-    { src: "../img/concept/slide3.jpg" },
+    { src: "Mario_Bakery/../img/concept/slide1.jpg" },
+    { src: "Mario_Bakery/../img/concept/slide2.jpg" },
+    { src: "Mario_Bakery/../img/concept/slide3.jpg" },
   ],
 });
 
