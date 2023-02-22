@@ -5,9 +5,9 @@ $(".concept").vegas({
   transitionDuration: 2000,
   animation: "kenburns",
   slides: [
-    { src: "../img/concept/slide1.jpg" },
-    { src: "../img/concept/slide2.jpg" },
-    { src: "../img/concept/slide3.jpg" },
+    { src: "img/concept/slide1.jpg" },
+    { src: "img/concept/slide2.jpg" },
+    { src: "img/concept/slide3.jpg" },
   ],
 });
 
